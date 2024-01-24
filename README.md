@@ -2,14 +2,14 @@
 
 ## Personal Information
 
-Name: Arturo Manrique Garza
-ID: Al03009720
-Semester: 8
+-Name: Arturo Manrique Garza
+-ID: Al03009720
+-Semester: 8
 
 ## Course Information
 
-Name: Diseno de aplicaciones web
-Teacher:Cristopher Gerardo Gaytan Diaz
+-Name: Diseno de aplicaciones web
+-Teacher:Cristopher Gerardo Gaytan Diaz
 
 ## What is Markdown
 
